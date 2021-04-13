@@ -1,0 +1,3 @@
+[tasks.flash]
+command = "cargo"
+args = ["flash", "--chip", "STM32F446RETx"]
